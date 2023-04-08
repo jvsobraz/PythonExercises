@@ -9,6 +9,6 @@ while div <= n:
     div = div + 1
 
 if contador == 2:
-    print(n, " eh primo")
+    print(n, " é primo")
 else:
-    print(n, " nao eh primo")
+    print(n, " não é primo")

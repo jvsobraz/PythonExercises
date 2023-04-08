@@ -1,4 +1,4 @@
-n = int(input("Qual numero de Fibonacci voce quer: "))
+n = int(input("Qual número de Fibonacci você quer: "))
 
 anterior = 1
 atual = 1

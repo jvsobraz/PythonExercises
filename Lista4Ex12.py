@@ -9,6 +9,6 @@ while num != 0:
     resp = resp * 10 + d
 
 if numOriginal == resp:
-    print("Eh palindrome")
+    print("É palíndrome")
 else:
-    print("Nao eh palindrome")
+    print("Não é palíndrome")

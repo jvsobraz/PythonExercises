@@ -24,9 +24,9 @@ while conta <= 70:
 
     conta = conta + 1
 
-print("A maior nota eh", maior)
-print("A menor nota eh", menor)
+print("A maior nota é", maior)
+print("A menor nota é", menor)
 
-print("Ate 20 questoes {:.2f}".format(contaAte20 * 100 / 70))
-print("Entre 20 e 50 questoes {:.2f}".format(conta20a50 * 100 / 70))
-print("Acima de 50 questoes {:.2f}".format(contaAcima50 * 100 / 70))
+print("Até 20 questões {:.2f}".format(contaAte20 * 100 / 70))
+print("Entre 20 e 50 questões {:.2f}".format(conta20a50 * 100 / 70))
+print("Acima de 50 questões {:.2f}".format(contaAcima50 * 100 / 70))

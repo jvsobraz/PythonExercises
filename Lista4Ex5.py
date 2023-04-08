@@ -1,4 +1,4 @@
-n = int(input("Informe numero que deseja contar os divisores: "))
+n = int(input("Informe número que deseja contar os divisores: "))
 conta = 0
 
 div = 1

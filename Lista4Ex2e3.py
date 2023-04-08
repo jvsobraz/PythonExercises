@@ -16,6 +16,6 @@ while conta <= n:
         contaMais5 = contaMais5 + 1
 
 media = soma / n
-print("A media da turma e {}".format(media))
+print("A média da turma é {}".format(media))
 print("{} foi a qtd de alunos que tiraram menos que 5.".format(contaMenos5))
 print("{} foi a qtd de alunos que tiraram mais ou igual a 5.".format(contaMais5))
